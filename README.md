@@ -1,7 +1,7 @@
 # Password-Security
 
-This project is a comprehensive **Password Management and Encryption Toolkit** written in C++. It provides functionalities such as password generation, strength checking, time-to-crack estimation, and implementation of various cryptographic algorithms like Caesar Cipher, Vernam Cipher, XOR Cipher, Vigenère Cipher, Hill Cipher, and RSA encryption.
----
+This project is a comprehensive Password Management and Encryption Toolkit written in C++.It provides functionalities such as password generation, strength checking, time to time estimation and implementation of various cryptographic algorithms like Caesar Cipher, Vernam Cipher, XOR cipher, Vignere Cipher, Hill Cipher and RSA Encryption.
+
 ## Features
 
 1. **Modified Caesar Cipher**
@@ -28,4 +28,4 @@ This project is a comprehensive **Password Management and Encryption Toolkit** w
 8. **RSA Algorithm**
    - Generates public and private keys, encrypts plaintext, and decrypts ciphertext using the RSA algorithm.
 
-NOTE:This program is designed for Windows systems and may require modifications to run on other operating systems.
+NOTE: This program is designed for Windows systems and may require modifications to run on other operating systems.
